@@ -1,0 +1,59 @@
+Site,Site2,Month,Order2,PlantSpecies,Color,Range,Blooms,Date,Count,countabun,abuncount1,logabuncount1
+Jesse,Site 3,September,29,Brown eyed susan,Yellow,Native,5,9/13/2020,0,0,1,0
+Jesse,Site 3,September,29,Brown eyed susan,Yellow,Native,5,9/26/2020,0,0,1,0
+Boyd,Site 2,September,19,Bull thistle,Purple,Non-Native,50,9/5/2020,1,0.02,1.02,0.008600172
+Boyd,Site 2,September,19,Bull thistle,Purple,Non-Native,50,9/19/2020,0,0,1,0
+Uthe,Site 4,September,19,Bull thistle,Purple,Non-Native,5,9/5/2020,0,0,1,0
+Uthe,Site 4,September,19,Bull thistle,Purple,Non-Native,5,9/19/2020,0,0,1,0
+Boyd,Site 2,September,16,Canada thistle,Purple,Non-Native,7,9/5/2020,0,0,1,0
+Boyd,Site 2,September,16,Canada thistle,Purple,Non-Native,7,9/19/2020,0,0,1,0
+Jesse,Site 3,September,45,Common sneezeweed,Yellow,Native,40,9/13/2020,0,0,1,0
+Jesse,Site 3,September,45,Common sneezeweed,Yellow,Native,40,9/26/2020,0,0,1,0
+Jesse,Site 3,September,34,Cup plant,Yellow,Native,30,9/13/2020,0,0,1,0
+Jesse,Site 3,September,34,Cup plant,Yellow,Native,30,9/26/2020,0,0,1,0
+Boyd,Site 2,September,46,Frost aster,White,Native,25,9/5/2020,0,0,1,0
+Boyd,Site 2,September,46,Frost aster,White,Native,25,9/19/2020,0,0,1,0
+Jesse,Site 3,September,46,Frost aster,White,Native,970,9/13/2020,2,0.002061856,1.002061856,0.000894531
+Jesse,Site 3,September,46,Frost aster,White,Native,970,9/26/2020,125,0.128865979,1.128865979,0.052642385
+Uthe,Site 4,September,46,Frost aster,White,Native,29,9/5/2020,0,0,1,0
+Uthe,Site 4,September,46,Frost aster,White,Native,29,9/19/2020,0,0,1,0
+Boyd,Site 2,September,47,Goldenrod,Yellow,Native,740,9/5/2020,4,0.005405405,1.005405405,0.002341216
+Boyd,Site 2,September,47,Goldenrod,Yellow,Native,740,9/19/2020,0,0,1,0
+Jesse,Site 3,September,47,Goldenrod,Yellow,Native,429,9/13/2020,1,0.002331002,1.002331002,0.001011163
+Jesse,Site 3,September,47,Goldenrod,Yellow,Native,429,9/26/2020,0,0,1,0
+Uthe,Site 4,September,47,Goldenrod,Yellow,Native,1034,9/5/2020,0,0,1,0
+Uthe,Site 4,September,47,Goldenrod,Yellow,Native,1034,9/19/2020,0,0,1,0
+Boyd,Site 2,September,35,Greyheaded coneflower,Yellow,Native,22,9/5/2020,0,0,1,0
+Boyd,Site 2,September,35,Greyheaded coneflower,Yellow,Native,22,9/19/2020,0,0,1,0
+Boyd,Site 2,September,43,Jersulem artichoke,Yellow,Native,639,9/5/2020,1,0.001564945,1.001564945,0.000679116
+Boyd,Site 2,September,43,Jersulem artichoke,Yellow,Native,639,9/19/2020,0,0,1,0
+Barb,Site 1,September,48,New england aster,Purple,Native,12,9/13/2020,0,0,1,0
+Barb,Site 1,September,48,New england aster,Purple,Native,12,9/26/2020,0,0,1,0
+Boyd,Site 2,September,48,New england aster,Purple,Native,440,9/5/2020,7,0.015909091,1.015909091,0.006854847
+Boyd,Site 2,September,48,New england aster,Purple,Native,440,9/19/2020,1,0.002272727,1.002272727,0.000985913
+Uthe,Site 4,September,48,New england aster,Purple,Native,20,9/5/2020,0,0,1,0
+Uthe,Site 4,September,48,New england aster,Purple,Native,20,9/19/2020,0,0,1,0
+Boyd,Site 2,September,23,Oxeye sunflower,Yellow,Native,45,9/5/2020,3,0.066666667,1.066666667,0.028028724
+Boyd,Site 2,September,23,Oxeye sunflower,Yellow,Native,45,9/19/2020,0,0,1,0
+Jesse,Site 3,September,23,Oxeye sunflower,Yellow,Native,155,9/13/2020,0,0,1,0
+Jesse,Site 3,September,23,Oxeye sunflower,Yellow,Native,155,9/26/2020,0,0,1,0
+Jesse,Site 3,September,14,Pale purple coneflower,Purple,Native,1,9/13/2020,0,0,1,0
+Jesse,Site 3,September,14,Pale purple coneflower,Purple,Native,1,9/26/2020,1,1,2,0.301029996
+Barb,Site 1,September,37,Partridge pea,Yellow,Native,257,9/13/2020,0,0,1,0
+Barb,Site 1,September,37,Partridge pea,Yellow,Native,257,9/26/2020,0,0,1,0
+Uthe,Site 4,September,37,Partridge pea,Yellow,Native,15,9/5/2020,0,0,1,0
+Uthe,Site 4,September,37,Partridge pea,Yellow,Native,15,9/19/2020,0,0,1,0
+Boyd,Site 2,September,1,Red clover,Purple,Non-Native,72,9/5/2020,0,0,1,0
+Boyd,Site 2,September,1,Red clover,Purple,Non-Native,72,9/19/2020,0,0,1,0
+Jesse,Site 3,September,1,Red clover,Purple,Non-Native,55,9/13/2020,41,0.745454545,1.745454545,0.241908544
+Jesse,Site 3,September,1,Red clover,Purple,Non-Native,55,9/26/2020,1,0.018181818,1.018181818,0.007825338
+Boyd,Site 2,September,49,Sawtooth sunflower,Yellow,Native,45,9/5/2020,40,0.888888889,1.888888889,0.276206412
+Boyd,Site 2,September,49,Sawtooth sunflower,Yellow,Native,45,9/19/2020,0,0,1,0
+Boyd,Site 2,September,50,Tall boneset,White,Native,1060,9/5/2020,69,0.06509434,1.06509434,0.027388077
+Boyd,Site 2,September,50,Tall boneset,White,Native,1060,9/19/2020,4,0.003773585,1.003773585,0.001635763
+Uthe,Site 4,September,50,Tall boneset,White,Native,480,9/5/2020,2,0.004166667,1.004166667,0.001805801
+Uthe,Site 4,September,50,Tall boneset,White,Native,480,9/19/2020,0,0,1,0
+Boyd,Site 2,September,44,White heath aster,White,Native,250,9/5/2020,7,0.028,1.028,0.011993115
+Boyd,Site 2,September,44,White heath aster,White,Native,250,9/19/2020,0,0,1,0
+Uthe,Site 4,September,44,White heath aster,White,Native,90,9/5/2020,0,0,1,0
+Uthe,Site 4,September,44,White heath aster,White,Native,90,9/19/2020,0,0,1,0

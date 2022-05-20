@@ -1,0 +1,209 @@
+Site,Site2,Month,Order2,PlantSpecies,BloomsInTransect,Blooms,plus1,LogBloom,Count,sum,prop,perc,sig
+Barb,Site 1,June,19,Bull thistle,0,0,1,0,0,13,0.433333333,43.33333333,a
+Barb,Site 1,June,15,Butterfly milkweed,0,0,1,0,0,6,0.2,20,b
+Barb,Site 1,June,1,Red clover,0,0,1,0,0,6,0.2,20,b
+Barb,Site 1,June,13,Foxglove beardtounge,0,0,1,0,0,3,0.1,10,b
+Barb,Site 1,June,17,Common milkweed,1,1,2,0.301029996,0,2,0.066666667,6.666666667,bc
+Barb,Site 1,June,6,Alfalfa,0,0,1,0,0,0,0,0,c
+Barb,Site 1,June,28,Black eyed susan,0,0,1,0,0,0,,,c
+Barb,Site 1,June,29,Brown eyed susan,2,2,3,0.477121255,0,0,,,c
+Barb,Site 1,June,42,Canada lettuce,0,0,1,0,0,0,,,c
+Barb,Site 1,June,16,Canada thistle,0,0,1,0,0,0,,,c
+Barb,Site 1,June,8,Carolina horse nettle,0,0,1,0,0,0,,,c
+Barb,Site 1,June,43,Chicory,0,0,1,0,0,0,,,c
+Barb,Site 1,June,25,Common evening primrose,0,0,1,0,0,0,,,c
+Barb,Site 1,June,30,Common selfheal,0,0,1,0,0,0,,,c
+Barb,Site 1,June,45,Common sneezeweed,0,0,1,0,0,0,,,c
+Barb,Site 1,June,5,Crown vetch,33,33,34,1.531478917,0,0,,,c
+Barb,Site 1,June,34,Cup plant,0,0,1,0,0,0,,,c
+Barb,Site 1,June,11,Dandelion,1,1,2,0.301029996,0,0,,,c
+Barb,Site 1,June,20,Deptford pink,0,0,1,0,0,0,,,c
+Barb,Site 1,June,7,Eastern daisy fleabane,0,0,1,0,0,0,,,c
+Barb,Site 1,June,46,Frost aster,0,0,1,0,0,0,,,c
+Barb,Site 1,June,3,Golden alexander,0,0,1,0,0,0,,,c
+Barb,Site 1,June,47,Goldenrod,0,0,1,0,0,0,,,c
+Barb,Site 1,June,35,Greyheaded coneflower,0,0,1,0,0,0,,,c
+Barb,Site 1,June,12,Hairy ruellia,0,0,1,0,0,0,,,c
+Barb,Site 1,June,21,Hoary vervain,0,0,1,0,0,0,,,c
+Barb,Site 1,June,36,Ironweed,0,0,1,0,0,0,,,c
+Barb,Site 1,June,43,Jersulem artichoke,0,0,1,0,0,0,,,c
+Barb,Site 1,June,22,Morning glory,0,0,1,0,0,0,,,c
+Barb,Site 1,June,32,Mountain mint,0,0,1,0,0,0,,,c
+Barb,Site 1,June,48,New england aster,0,0,1,0,0,0,,,c
+Barb,Site 1,June,23,Oxeye sunflower,0,0,1,0,0,0,,,c
+Barb,Site 1,June,14,Pale purple coneflower,6,6,7,0.84509804,0,0,,,c
+Barb,Site 1,June,37,Partridge pea,0,0,1,0,0,0,,,c
+Barb,Site 1,June,38,Purple prairie clover,0,0,1,0,0,0,,,c
+Barb,Site 1,June,18,Queen anne's lace,0,0,1,0,0,0,,,c
+Barb,Site 1,June,39,Rattlesnake master,0,0,1,0,0,0,,,c
+Barb,Site 1,June,49,Sawtooth sunflower,0,0,1,0,0,0,,,c
+Barb,Site 1,June,31,Showy ticktrefoil,0,0,1,0,0,0,,,c
+Barb,Site 1,June,26,St. john's wort,0,0,1,0,0,0,,,c
+Barb,Site 1,June,33,Swamp milkweed,0,0,1,0,0,0,,,c
+Barb,Site 1,June,27,Swamp smartweed,0,0,1,0,0,0,,,c
+Barb,Site 1,June,50,Tall boneset,0,0,1,0,0,0,,,c
+Barb,Site 1,June,2,White clover,4,4,5,0.698970004,0,0,,,c
+Barb,Site 1,June,44,White heath aster,0,0,1,0,0,0,,,c
+Barb,Site 1,June,10,White sweet clover,0,0,1,0,0,0,,,c
+Barb,Site 1,June,40,White vervain,0,0,1,0,0,0,,,c
+Barb,Site 1,June,20,Whorled milkweed,0,0,1,0,0,0,,,c
+Barb,Site 1,June,41,Wild bergamot,0,0,1,0,0,0,,,c
+Barb,Site 1,June,4,Wild parsnip,0,0,1,0,0,0,,,c
+Barb,Site 1,June,24,Yarrow,0,0,1,0,0,0,,,c
+Barb,Site 1,June,9,Yellow sweet clover,0,0,1,0,0,0,,,c
+Boyd,Site 2,June,6,Alfalfa,170,170,171,2.23299611,0,,,,
+Boyd,Site 2,June,28,Black eyed susan,0,0,1,0,0,,,,
+Boyd,Site 2,June,29,Brown eyed susan,0,0,1,0,0,,,,
+Boyd,Site 2,June,19,Bull thistle,0,0,1,0,0,,,,
+Boyd,Site 2,June,15,Butterfly milkweed,0,0,1,0,0,,,,
+Boyd,Site 2,June,42,Canada lettuce,0,0,1,0,0,,,,
+Boyd,Site 2,June,16,Canada thistle,8,8,9,0.954242509,0,,,,
+Boyd,Site 2,June,8,Carolina horse nettle,0,0,1,0,0,,,,
+Boyd,Site 2,June,43,Chicory,0,0,1,0,0,,,,
+Boyd,Site 2,June,25,Common evening primrose,0,0,1,0,0,,,,
+Boyd,Site 2,June,17,Common milkweed,0,0,1,0,0,,,,
+Boyd,Site 2,June,30,Common selfheal,0,0,1,0,0,,,,
+Boyd,Site 2,June,45,Common sneezeweed,0,0,1,0,0,,,,
+Boyd,Site 2,June,5,Crown vetch,0,0,1,0,0,,,,
+Boyd,Site 2,June,34,Cup plant,0,0,1,0,0,,,,
+Boyd,Site 2,June,11,Dandelion,0,0,1,0,0,,,,
+Boyd,Site 2,June,20,Deptford pink,0,0,1,0,0,,,,
+Boyd,Site 2,June,7,Eastern daisy fleabane,0,0,1,0,0,,,,
+Boyd,Site 2,June,13,Foxglove beardtounge,320,320,321,2.506505032,0,,,,
+Boyd,Site 2,June,46,Frost aster,0,0,1,0,0,,,,
+Boyd,Site 2,June,3,Golden alexander,20,20,21,1.322219295,0,,,,
+Boyd,Site 2,June,47,Goldenrod,0,0,1,0,0,,,,
+Boyd,Site 2,June,35,Greyheaded coneflower,0,0,1,0,0,,,,
+Boyd,Site 2,June,12,Hairy ruellia,0,0,1,0,0,,,,
+Boyd,Site 2,June,21,Hoary vervain,0,0,1,0,0,,,,
+Boyd,Site 2,June,36,Ironweed,0,0,1,0,0,,,,
+Boyd,Site 2,June,43,Jersulem artichoke,0,0,1,0,0,,,,
+Boyd,Site 2,June,22,Morning glory,0,0,1,0,0,,,,
+Boyd,Site 2,June,32,Mountain mint,0,0,1,0,0,,,,
+Boyd,Site 2,June,48,New england aster,0,0,1,0,0,,,,
+Boyd,Site 2,June,23,Oxeye sunflower,0,0,1,0,0,,,,
+Boyd,Site 2,June,14,Pale purple coneflower,0,0,1,0,0,,,,
+Boyd,Site 2,June,37,Partridge pea,0,0,1,0,0,,,,
+Boyd,Site 2,June,38,Purple prairie clover,0,0,1,0,0,,,,
+Boyd,Site 2,June,18,Queen anne's lace,0,0,1,0,0,,,,
+Boyd,Site 2,June,39,Rattlesnake master,0,0,1,0,0,,,,
+Boyd,Site 2,June,1,Red clover,124,124,125,2.096910013,0,,,,
+Boyd,Site 2,June,49,Sawtooth sunflower,0,0,1,0,0,,,,
+Boyd,Site 2,June,31,Showy ticktrefoil,0,0,1,0,0,,,,
+Boyd,Site 2,June,26,St. john's wort,0,0,1,0,0,,,,
+Boyd,Site 2,June,33,Swamp milkweed,0,0,1,0,0,,,,
+Boyd,Site 2,June,27,Swamp smartweed,0,0,1,0,0,,,,
+Boyd,Site 2,June,50,Tall boneset,0,0,1,0,0,,,,
+Boyd,Site 2,June,2,White clover,7,7,8,0.903089987,0,,,,
+Boyd,Site 2,June,44,White heath aster,0,0,1,0,0,,,,
+Boyd,Site 2,June,10,White sweet clover,0,0,1,0,0,,,,
+Boyd,Site 2,June,40,White vervain,0,0,1,0,0,,,,
+Boyd,Site 2,June,20,Whorled milkweed,0,0,1,0,0,,,,
+Boyd,Site 2,June,41,Wild bergamot,0,0,1,0,0,,,,
+Boyd,Site 2,June,4,Wild parsnip,0,0,1,0,0,,,,
+Boyd,Site 2,June,24,Yarrow,0,0,1,0,0,,,,
+Boyd,Site 2,June,9,Yellow sweet clover,0,0,1,0,0,,,,
+Jesse,Site 3,June,6,Alfalfa,0,0,1,0,0,,,,
+Jesse,Site 3,June,28,Black eyed susan,0,0,1,0,0,,,,
+Jesse,Site 3,June,29,Brown eyed susan,0,0,1,0,0,,,,
+Jesse,Site 3,June,19,Bull thistle,0,0,1,0,0,,,,
+Jesse,Site 3,June,15,Butterfly milkweed,1,1,2,0.301029996,6,,,,
+Jesse,Site 3,June,42,Canada lettuce,0,0,1,0,0,,,,
+Jesse,Site 3,June,16,Canada thistle,0,0,1,0,0,,,,
+Jesse,Site 3,June,8,Carolina horse nettle,0,0,1,0,0,,,,
+Jesse,Site 3,June,43,Chicory,0,0,1,0,0,,,,
+Jesse,Site 3,June,25,Common evening primrose,0,0,1,0,0,,,,
+Jesse,Site 3,June,17,Common milkweed,1,1,2,0.301029996,2,,,,
+Jesse,Site 3,June,30,Common selfheal,0,0,1,0,0,,,,
+Jesse,Site 3,June,45,Common sneezeweed,0,0,1,0,0,,,,
+Jesse,Site 3,June,5,Crown vetch,0,0,1,0,0,,,,
+Jesse,Site 3,June,34,Cup plant,0,0,1,0,0,,,,
+Jesse,Site 3,June,11,Dandelion,0,0,1,0,0,,,,
+Jesse,Site 3,June,20,Deptford pink,0,0,1,0,0,,,,
+Jesse,Site 3,June,7,Eastern daisy fleabane,6,6,7,0.84509804,0,,,,
+Jesse,Site 3,June,13,Foxglove beardtounge,0,0,1,0,0,,,,
+Jesse,Site 3,June,46,Frost aster,0,0,1,0,0,,,,
+Jesse,Site 3,June,3,Golden alexander,0,0,1,0,0,,,,
+Jesse,Site 3,June,47,Goldenrod,0,0,1,0,0,,,,
+Jesse,Site 3,June,35,Greyheaded coneflower,0,0,1,0,0,,,,
+Jesse,Site 3,June,12,Hairy ruellia,0,0,1,0,0,,,,
+Jesse,Site 3,June,21,Hoary vervain,0,0,1,0,0,,,,
+Jesse,Site 3,June,36,Ironweed,0,0,1,0,0,,,,
+Jesse,Site 3,June,43,Jersulem artichoke,0,0,1,0,0,,,,
+Jesse,Site 3,June,22,Morning glory,0,0,1,0,0,,,,
+Jesse,Site 3,June,32,Mountain mint,0,0,1,0,0,,,,
+Jesse,Site 3,June,48,New england aster,0,0,1,0,0,,,,
+Jesse,Site 3,June,23,Oxeye sunflower,65,65,66,1.819543936,0,,,,
+Jesse,Site 3,June,14,Pale purple coneflower,0,0,1,0,0,,,,
+Jesse,Site 3,June,37,Partridge pea,0,0,1,0,0,,,,
+Jesse,Site 3,June,38,Purple prairie clover,0,0,1,0,0,,,,
+Jesse,Site 3,June,18,Queen anne's lace,0,0,1,0,0,,,,
+Jesse,Site 3,June,39,Rattlesnake master,0,0,1,0,0,,,,
+Jesse,Site 3,June,1,Red clover,276,276,277,2.442479769,6,,,,
+Jesse,Site 3,June,49,Sawtooth sunflower,0,0,1,0,0,,,,
+Jesse,Site 3,June,31,Showy ticktrefoil,0,0,1,0,0,,,,
+Jesse,Site 3,June,26,St. john's wort,0,0,1,0,0,,,,
+Jesse,Site 3,June,33,Swamp milkweed,0,0,1,0,0,,,,
+Jesse,Site 3,June,27,Swamp smartweed,0,0,1,0,0,,,,
+Jesse,Site 3,June,50,Tall boneset,0,0,1,0,0,,,,
+Jesse,Site 3,June,2,White clover,0,0,1,0,0,,,,
+Jesse,Site 3,June,44,White heath aster,0,0,1,0,0,,,,
+Jesse,Site 3,June,10,White sweet clover,0,0,1,0,0,,,,
+Jesse,Site 3,June,40,White vervain,1,1,2,0.301029996,0,,,,
+Jesse,Site 3,June,20,Whorled milkweed,0,0,1,0,0,,,,
+Jesse,Site 3,June,41,Wild bergamot,0,0,1,0,0,,,,
+Jesse,Site 3,June,4,Wild parsnip,0,0,1,0,0,,,,
+Jesse,Site 3,June,24,Yarrow,9,9,10,1,0,,,,
+Jesse,Site 3,June,9,Yellow sweet clover,0,0,1,0,0,,,,
+Uthe,Site 4,June,6,Alfalfa,0,0,1,0,0,,,,
+Uthe,Site 4,June,28,Black eyed susan,0,0,1,0,0,,,,
+Uthe,Site 4,June,29,Brown eyed susan,0,0,1,0,0,,,,
+Uthe,Site 4,June,19,Bull thistle,1,1,2,0.301029996,13,,,,
+Uthe,Site 4,June,15,Butterfly milkweed,0,0,1,0,0,,,,
+Uthe,Site 4,June,42,Canada lettuce,0,0,1,0,0,,,,
+Uthe,Site 4,June,16,Canada thistle,0,0,1,0,0,,,,
+Uthe,Site 4,June,8,Carolina horse nettle,0,0,1,0,0,,,,
+Uthe,Site 4,June,43,Chicory,0,0,1,0,0,,,,
+Uthe,Site 4,June,25,Common evening primrose,0,0,1,0,0,,,,
+Uthe,Site 4,June,17,Common milkweed,0,0,1,0,0,,,,
+Uthe,Site 4,June,30,Common selfheal,0,0,1,0,0,,,,
+Uthe,Site 4,June,45,Common sneezeweed,0,0,1,0,0,,,,
+Uthe,Site 4,June,5,Crown vetch,47,47,48,1.681241237,0,,,,
+Uthe,Site 4,June,34,Cup plant,0,0,1,0,0,,,,
+Uthe,Site 4,June,11,Dandelion,0,0,1,0,0,,,,
+Uthe,Site 4,June,20,Deptford pink,0,0,1,0,0,,,,
+Uthe,Site 4,June,7,Eastern daisy fleabane,0,0,1,0,0,,,,
+Uthe,Site 4,June,13,Foxglove beardtounge,66,66,67,1.826074803,3,,,,
+Uthe,Site 4,June,46,Frost aster,0,0,1,0,0,,,,
+Uthe,Site 4,June,3,Golden alexander,47,47,48,1.681241237,0,,,,
+Uthe,Site 4,June,47,Goldenrod,0,0,1,0,0,,,,
+Uthe,Site 4,June,35,Greyheaded coneflower,0,0,1,0,0,,,,
+Uthe,Site 4,June,12,Hairy ruellia,0,0,1,0,0,,,,
+Uthe,Site 4,June,21,Hoary vervain,0,0,1,0,0,,,,
+Uthe,Site 4,June,36,Ironweed,0,0,1,0,0,,,,
+Uthe,Site 4,June,43,Jersulem artichoke,0,0,1,0,0,,,,
+Uthe,Site 4,June,22,Morning glory,0,0,1,0,0,,,,
+Uthe,Site 4,June,32,Mountain mint,0,0,1,0,0,,,,
+Uthe,Site 4,June,48,New england aster,0,0,1,0,0,,,,
+Uthe,Site 4,June,23,Oxeye sunflower,0,0,1,0,0,,,,
+Uthe,Site 4,June,14,Pale purple coneflower,0,0,1,0,0,,,,
+Uthe,Site 4,June,37,Partridge pea,0,0,1,0,0,,,,
+Uthe,Site 4,June,38,Purple prairie clover,0,0,1,0,0,,,,
+Uthe,Site 4,June,18,Queen anne's lace,0,0,1,0,0,,,,
+Uthe,Site 4,June,39,Rattlesnake master,0,0,1,0,0,,,,
+Uthe,Site 4,June,1,Red clover,0,0,1,0,0,,,,
+Uthe,Site 4,June,49,Sawtooth sunflower,0,0,1,0,0,,,,
+Uthe,Site 4,June,31,Showy ticktrefoil,0,0,1,0,0,,,,
+Uthe,Site 4,June,26,St. john's wort,0,0,1,0,0,,,,
+Uthe,Site 4,June,33,Swamp milkweed,0,0,1,0,0,,,,
+Uthe,Site 4,June,27,Swamp smartweed,0,0,1,0,0,,,,
+Uthe,Site 4,June,50,Tall boneset,0,0,1,0,0,,,,
+Uthe,Site 4,June,2,White clover,75,75,76,1.880813592,0,,,,
+Uthe,Site 4,June,44,White heath aster,0,0,1,0,0,,,,
+Uthe,Site 4,June,10,White sweet clover,0,0,1,0,0,,,,
+Uthe,Site 4,June,40,White vervain,0,0,1,0,0,,,,
+Uthe,Site 4,June,20,Whorled milkweed,0,0,1,0,0,,,,
+Uthe,Site 4,June,41,Wild bergamot,0,0,1,0,0,,,,
+Uthe,Site 4,June,4,Wild parsnip,15,15,16,1.204119983,0,,,,
+Uthe,Site 4,June,24,Yarrow,0,0,1,0,0,,,,
+Uthe,Site 4,June,9,Yellow sweet clover,0,0,1,0,0,,,,

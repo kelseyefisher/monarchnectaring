@@ -1,0 +1,81 @@
+Site,Site2,Month,Order2,PlantSpecies,Color,Range,Blooms,Date,Count,countabun,abuncount1,logabuncount1
+Barb,Site 1,June,5,Crown vetch,Pink,Non-Native,33,6/17/2020,0,0,1,0
+Barb,Site 1,June,14,Pale purple coneflower,Purple,Native,6,6/17/2020,0,0,1,0
+Barb,Site 1,June,2,White clover,White,Non-Native,4,6/17/2020,0,0,1,0
+Barb,Site 1,June,29,Brown eyed susan,Yellow,Native,2,6/17/2020,0,0,1,0
+Barb,Site 1,June,17,Common milkweed,Pink,Native,1,6/17/2020,0,0,1,0
+Barb,Site 1,June,11,Dandelion,Yellow,Non-Native,1,6/17/2020,0,0,1,0
+Barb,Site 1,June,5,Crown vetch,Pink,Non-Native,33,6/27/2020,0,0,1,0
+Barb,Site 1,June,14,Pale purple coneflower,Purple,Native,6,6/27/2020,0,0,1,0
+Barb,Site 1,June,2,White clover,White,Non-Native,4,6/27/2020,0,0,1,0
+Barb,Site 1,June,29,Brown eyed susan,Yellow,Native,2,6/27/2020,0,0,1,0
+Barb,Site 1,June,17,Common milkweed,Pink,Native,1,6/27/2020,0,0,1,0
+Barb,Site 1,June,11,Dandelion,Yellow,Non-Native,1,6/27/2020,0,0,1,0
+Boyd,Site 2,June,13,Foxglove beardtounge,White,Native,320,6/4/2020,0,0,1,0
+Boyd,Site 2,June,6,Alfalfa,Purple,Non-Native,170,6/4/2020,0,0,1,0
+Boyd,Site 2,June,1,Red clover,Purple,Non-Native,124,6/4/2020,0,0,1,0
+Boyd,Site 2,June,3,Golden alexander,Yellow,Native,20,6/4/2020,0,0,1,0
+Boyd,Site 2,June,16,Canada thistle,Purple,Non-Native,8,6/4/2020,0,0,1,0
+Boyd,Site 2,June,2,White clover,White,Non-Native,7,6/4/2020,0,0,1,0
+Boyd,Site 2,June,13,Foxglove beardtounge,White,Native,320,6/12/2020,0,0,1,0
+Boyd,Site 2,June,6,Alfalfa,Purple,Non-Native,170,6/12/2020,0,0,1,0
+Boyd,Site 2,June,1,Red clover,Purple,Non-Native,124,6/12/2020,0,0,1,0
+Boyd,Site 2,June,3,Golden alexander,Yellow,Native,20,6/12/2020,0,0,1,0
+Boyd,Site 2,June,16,Canada thistle,Purple,Non-Native,8,6/12/2020,0,0,1,0
+Boyd,Site 2,June,2,White clover,White,Non-Native,7,6/12/2020,0,0,1,0
+Boyd,Site 2,June,13,Foxglove beardtounge,White,Native,320,6/23/2020,0,0,1,0
+Boyd,Site 2,June,6,Alfalfa,Purple,Non-Native,170,6/23/2020,0,0,1,0
+Boyd,Site 2,June,1,Red clover,Purple,Non-Native,124,6/23/2020,0,0,1,0
+Boyd,Site 2,June,3,Golden alexander,Yellow,Native,20,6/23/2020,0,0,1,0
+Boyd,Site 2,June,16,Canada thistle,Purple,Non-Native,8,6/23/2020,0,0,1,0
+Boyd,Site 2,June,2,White clover,White,Non-Native,7,6/23/2020,0,0,1,0
+Jesse,Site 3,June,1,Red clover,Purple,Non-Native,276,6/8/2020,0,0,1,0
+Jesse,Site 3,June,23,Oxeye sunflower,Yellow,Native,65,6/8/2020,0,0,1,0
+Jesse,Site 3,June,24,Yarrow,White,Native,9,6/8/2020,0,0,1,0
+Jesse,Site 3,June,7,Eastern daisy fleabane,White,Native,6,6/8/2020,0,0,1,0
+Jesse,Site 3,June,15,Butterfly milkweed,Orange,Native,1,6/8/2020,0,0,1,0
+Jesse,Site 3,June,17,Common milkweed,Pink,Native,1,6/8/2020,0,0,1,0
+Jesse,Site 3,June,40,White vervain,White,Native,1,6/8/2020,0,0,1,0
+Jesse,Site 3,June,1,Red clover,Purple,Non-Native,276,6/17/2020,6,0.02173913,1.02173913,0.009340026
+Jesse,Site 3,June,23,Oxeye sunflower,Yellow,Native,65,6/17/2020,0,0,1,0
+Jesse,Site 3,June,24,Yarrow,White,Native,9,6/17/2020,0,0,1,0
+Jesse,Site 3,June,7,Eastern daisy fleabane,White,Native,6,6/17/2020,0,0,1,0
+Jesse,Site 3,June,15,Butterfly milkweed,Orange,Native,1,6/17/2020,0,0,1,0
+Jesse,Site 3,June,17,Common milkweed,Pink,Native,1,6/17/2020,0,0,1,0
+Jesse,Site 3,June,40,White vervain,White,Native,1,6/17/2020,0,0,1,0
+Jesse,Site 3,June,1,Red clover,Purple,Non-Native,276,6/27/2020,0,0,1,0
+Jesse,Site 3,June,23,Oxeye sunflower,Yellow,Native,65,6/27/2020,0,0,1,0
+Jesse,Site 3,June,24,Yarrow,White,Native,9,6/27/2020,0,0,1,0
+Jesse,Site 3,June,7,Eastern daisy fleabane,White,Native,6,6/27/2020,0,0,1,0
+Jesse,Site 3,June,15,Butterfly milkweed,Orange,Native,1,6/27/2020,6,6,7,0.84509804
+Jesse,Site 3,June,17,Common milkweed,Pink,Native,1,6/27/2020,2,2,3,0.477121255
+Jesse,Site 3,June,40,White vervain,White,Native,1,6/27/2020,0,0,1,0
+Uthe,Site 4,June,2,White clover,White,Non-Native,75,6/2/2020,0,0,1,0
+Uthe,Site 4,June,13,Foxglove beardtounge,White,Native,66,6/2/2020,0,0,1,0
+Uthe,Site 4,June,5,Crown vetch,Pink,Non-Native,47,6/2/2020,0,0,1,0
+Uthe,Site 4,June,3,Golden alexander,Yellow,Native,47,6/2/2020,0,0,1,0
+Uthe,Site 4,June,4,Wild parsnip,Yellow,Non-Native,15,6/2/2020,0,0,1,0
+Uthe,Site 4,June,19,Bull thistle,Purple,Non-Native,1,6/2/2020,13,13,14,1.146128036
+Uthe,Site 4,June,2,White clover,White,Non-Native,75,6/12/2020,0,0,1,0
+Uthe,Site 4,June,13,Foxglove beardtounge,White,Native,66,6/12/2020,3,0.045454545,1.045454545,0.019305155
+Uthe,Site 4,June,5,Crown vetch,Pink,Non-Native,47,6/12/2020,0,0,1,0
+Uthe,Site 4,June,3,Golden alexander,Yellow,Native,47,6/12/2020,0,0,1,0
+Uthe,Site 4,June,4,Wild parsnip,Yellow,Non-Native,15,6/12/2020,0,0,1,0
+Uthe,Site 4,June,19,Bull thistle,Purple,Non-Native,1,6/12/2020,0,0,1,0
+Uthe,Site 4,June,2,White clover,White,Non-Native,75,6/23/2020,0,0,1,0
+Uthe,Site 4,June,13,Foxglove beardtounge,White,Native,66,6/23/2020,0,0,1,0
+Uthe,Site 4,June,5,Crown vetch,Pink,Non-Native,47,6/23/2020,0,0,1,0
+Uthe,Site 4,June,3,Golden alexander,Yellow,Native,47,6/23/2020,0,0,1,0
+Uthe,Site 4,June,4,Wild parsnip,Yellow,Non-Native,15,6/23/2020,0,0,1,0
+Uthe,Site 4,June,19,Bull thistle,Purple,Non-Native,1,6/23/2020,0,0,1,0
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

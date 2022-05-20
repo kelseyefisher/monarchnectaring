@@ -1,0 +1,23 @@
+Site,Site2,Month,Date,Color,Blooms,Count,colorabun,colorabun1,logcolorabun1
+Barb,Site 1,September,9/13/2020,Yellow,257,0,0,1,0
+Barb,Site 1,September,9/13/2020,Purple,12,0,0,1,0
+Barb,Site 1,September,9/26/2020,Yellow,257,0,0,1,0
+Barb,Site 1,September,9/26/2020,Purple,12,0,0,1,0
+Boyd,Site 2,September,9/5/2020,Purple,569,8,0.014059754,1.014059754,0.006063547
+Boyd,Site 2,September,9/5/2020,White,1335,76,0.056928839,1.056928839,0.024045748
+Boyd,Site 2,September,9/5/2020,Yellow,1491,48,0.032193159,1.032193159,0.013760976
+Boyd,Site 2,September,9/19/2020,Purple,569,1,0.001757469,1.001757469,0.000762589
+Boyd,Site 2,September,9/19/2020,White,1335,4,0.002996255,1.002996255,0.001299311
+Boyd,Site 2,September,9/19/2020,Yellow,1491,0,0,1,0
+Jesse,Site 3,September,9/13/2020,Purple,56,41,0.732142857,1.732142857,0.238583707
+Jesse,Site 3,September,9/13/2020,White,970,2,0.002061856,1.002061856,0.000894531
+Jesse,Site 3,September,9/13/2020,Yellow,659,1,0.001517451,1.001517451,0.000658521
+Jesse,Site 3,September,9/26/2020,Purple,56,2,0.035714286,1.035714286,0.015239967
+Jesse,Site 3,September,9/26/2020,White,970,125,0.128865979,1.128865979,0.052642385
+Jesse,Site 3,September,9/26/2020,Yellow,659,0,0,1,0
+Uthe,Site 4,September,9/5/2020,Purple,25,0,0,1,0
+Uthe,Site 4,September,9/5/2020,White,599,2,0.003338898,1.003338898,0.00144765
+Uthe,Site 4,September,9/5/2020,Yellow,1049,0,0,1,0
+Uthe,Site 4,September,9/19/2020,Purple,25,0,0,1,0
+Uthe,Site 4,September,9/19/2020,White,599,0,0,1,0
+Uthe,Site 4,September,9/19/2020,Yellow,1049,0,0,1,0

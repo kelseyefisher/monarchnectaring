@@ -1,0 +1,23 @@
+Site,Site2,Month,Date,Range,Blooms,Count,countabun,abuncount1,lograngeabun1
+Barb,Site 1,June,6/17/2020,Native,9,0,0,1,0
+Barb,Site 1,June,6/17/2020,Non-Native,38,0,0,1,0
+Barb,Site 1,June,6/27/2020,Native,9,0,0,1,0
+Barb,Site 1,June,6/27/2020,Non-Native,38,0,0,1,0
+Boyd,Site 2,June,6/4/2020,Native,340,0,0,1,0
+Boyd,Site 2,June,6/4/2020,Non-Native,309,0,0,1,0
+Boyd,Site 2,June,6/12/2020,Native,340,0,0,1,0
+Boyd,Site 2,June,6/12/2020,Non-Native,309,0,0,1,0
+Boyd,Site 2,June,6/23/2020,Native,340,0,0,1,0
+Boyd,Site 2,June,6/23/2020,Non-Native,309,0,0,1,0
+Jesse,Site 3,June,6/8/2020,Native,83,0,0,1,0
+Jesse,Site 3,June,6/8/2020,Non-Native,276,0,0,1,0
+Jesse,Site 3,June,6/17/2020,Native,83,0,0,1,0
+Jesse,Site 3,June,6/17/2020,Non-Native,276,6,0.02173913,1.02173913,0.009340026
+Jesse,Site 3,June,6/27/2020,Native,83,8,0.096385542,1.096385542,0.0399633
+Jesse,Site 3,June,6/27/2020,Non-Native,276,0,0,1,0
+Uthe,Site 4,June,6/2/2020,Native,113,0,0,1,0
+Uthe,Site 4,June,6/2/2020,Non-Native,138,13,0.094202899,1.094202899,0.039097861
+Uthe,Site 4,June,6/12/2020,Native,113,3,0.026548673,1.026548673,0.011379546
+Uthe,Site 4,June,6/12/2020,Non-Native,138,0,0,1,0
+Uthe,Site 4,June,6/23/2020,Native,113,0,0,1,0
+Uthe,Site 4,June,6/23/2020,Non-Native,138,0,0,1,0
