@@ -1,0 +1,713 @@
+Site Number,Month,Plant Species,Blooms,plus1,LogBloom
+1,June,Alfalfa,0,1,0
+1,June,Black eyed susan,0,1,0
+1,June,Brown eyed susan,2,3,0.477121255
+1,June,Bull thistle,0,1,0
+1,June,Butterfly milkweed,0,1,0
+1,June,Canada lettuce,0,0,0
+1,June,Canada thistle,0,1,0
+1,June,Carolina horse nettle,0,1,0
+1,June,Common evening primrose,0,0,0
+1,June,Common milkweed,1,2,0.301029996
+1,June,Common selfheal,0,1,0
+1,June,Common sneezeweed,0,1,0
+1,June,Crown vetch,33,34,1.531478917
+1,June,Cup plant,0,1,0
+1,June,Dandelion,1,2,0.301029996
+1,June,Deptford pink,0,1,0
+1,June,Eastern daisy fleabane,0,1,0
+1,June,Foxglove beardtounge,0,1,0
+1,June,Frost aster,0,1,0
+1,June,Golden alexander,0,1,0
+1,June,Goldenrod,0,1,0
+1,June,Greyheaded coneflower,0,1,0
+1,June,Hairy ruellia,0,1,0
+1,June,Hoary vervain,0,1,0
+1,June,Ironweed,0,1,0
+1,June,Jersulem artichoke,0,1,0
+1,June,Morning glory,0,1,0
+1,June,Mountain mint,0,0,0
+1,June,New england aster,0,1,0
+1,June,Oxeye sunflower,0,1,0
+1,June,Pale purple coneflower,6,7,0.84509804
+1,June,Partridge pea,0,1,0
+1,June,Purple prairie clover,0,1,0
+1,June,Queen anne's lace,0,0,0
+1,June,Rattlesnake master,0,1,0
+1,June,Red clover,0,1,0
+1,June,Sawtooth sunflower,0,1,0
+1,June,Showy ticktrefoil,0,1,0
+1,June,St. john's wort,0,0,0
+1,June,Swamp milkweed,0,0,0
+1,June,Swamp smartweed,0,1,0
+1,June,Tall boneset,0,1,0
+1,June,White clover,4,5,0.698970004
+1,June,White heath aster,0,1,0
+1,June,White sweet clover,0,1,0
+1,June,White vervain,0,1,0
+1,June,Wild bergamot,0,1,0
+1,June,Wild parsnip,0,1,0
+1,June,Yarrow,0,1,0
+1,June,Yellow sweet clover,0,0,0
+2,June,Alfalfa,170,171,2.23299611
+2,June,Black eyed susan,0,1,0
+2,June,Brown eyed susan,0,1,0
+2,June,Bull thistle,0,1,0
+2,June,Butterfly milkweed,0,1,0
+2,June,Canada lettuce,0,0,0
+2,June,Canada thistle,8,9,0.954242509
+2,June,Carolina horse nettle,0,1,0
+2,June,Common evening primrose,0,0,0
+2,June,Common milkweed,0,1,0
+2,June,Common selfheal,0,1,0
+2,June,Common sneezeweed,0,1,0
+2,June,Crown vetch,0,1,0
+2,June,Cup plant,0,1,0
+2,June,Dandelion,0,1,0
+2,June,Deptford pink,0,1,0
+2,June,Eastern daisy fleabane,0,1,0
+2,June,Foxglove beardtounge,320,321,2.506505032
+2,June,Frost aster,0,1,0
+2,June,Golden alexander,20,21,1.322219295
+2,June,Goldenrod,0,1,0
+2,June,Greyheaded coneflower,0,1,0
+2,June,Hairy ruellia,0,1,0
+2,June,Hoary vervain,0,1,0
+2,June,Ironweed,0,1,0
+2,June,Jersulem artichoke,0,1,0
+2,June,Morning glory,0,1,0
+2,June,Mountain mint,0,0,0
+2,June,New england aster,0,1,0
+2,June,Oxeye sunflower,0,1,0
+2,June,Pale purple coneflower,0,1,0
+2,June,Partridge pea,0,1,0
+2,June,Purple prairie clover,0,1,0
+2,June,Queen anne's lace,0,0,0
+2,June,Rattlesnake master,0,1,0
+2,June,Red clover,124,125,2.096910013
+2,June,Sawtooth sunflower,0,1,0
+2,June,Showy ticktrefoil,0,1,0
+2,June,St. john's wort,0,0,0
+2,June,Swamp milkweed,0,0,0
+2,June,Swamp smartweed,0,1,0
+2,June,Tall boneset,0,1,0
+2,June,White clover,7,8,0.903089987
+2,June,White heath aster,0,1,0
+2,June,White sweet clover,0,1,0
+2,June,White vervain,0,1,0
+2,June,Wild bergamot,0,1,0
+2,June,Wild parsnip,0,1,0
+2,June,Yarrow,0,1,0
+2,June,Yellow sweet clover,0,0,0
+3,June,Alfalfa,0,1,0
+3,June,Black eyed susan,0,1,0
+3,June,Brown eyed susan,0,1,0
+3,June,Bull thistle,0,1,0
+3,June,Butterfly milkweed,1,2,0.301029996
+3,June,Canada lettuce,0,0,0
+3,June,Canada thistle,0,1,0
+3,June,Carolina horse nettle,0,1,0
+3,June,Common evening primrose,0,0,0
+3,June,Common milkweed,1,2,0.301029996
+3,June,Common selfheal,0,1,0
+3,June,Common sneezeweed,0,1,0
+3,June,Crown vetch,0,1,0
+3,June,Cup plant,0,1,0
+3,June,Dandelion,0,1,0
+3,June,Deptford pink,0,1,0
+3,June,Eastern daisy fleabane,6,7,0.84509804
+3,June,Foxglove beardtounge,0,1,0
+3,June,Frost aster,0,1,0
+3,June,Golden alexander,0,1,0
+3,June,Goldenrod,0,1,0
+3,June,Greyheaded coneflower,0,1,0
+3,June,Hairy ruellia,0,1,0
+3,June,Hoary vervain,0,1,0
+3,June,Ironweed,0,1,0
+3,June,Jersulem artichoke,0,1,0
+3,June,Morning glory,0,1,0
+3,June,Mountain mint,0,0,0
+3,June,New england aster,0,1,0
+3,June,Oxeye sunflower,65,66,1.819543936
+3,June,Pale purple coneflower,0,1,0
+3,June,Partridge pea,0,1,0
+3,June,Purple prairie clover,0,1,0
+3,June,Queen anne's lace,0,0,0
+3,June,Rattlesnake master,0,1,0
+3,June,Red clover,276,277,2.442479769
+3,June,Sawtooth sunflower,0,1,0
+3,June,Showy ticktrefoil,0,1,0
+3,June,St. john's wort,0,0,0
+3,June,Swamp milkweed,0,0,0
+3,June,Swamp smartweed,0,1,0
+3,June,Tall boneset,0,1,0
+3,June,White clover,0,1,0
+3,June,White heath aster,0,1,0
+3,June,White sweet clover,0,1,0
+3,June,White vervain,1,2,0.301029996
+3,June,Wild bergamot,0,1,0
+3,June,Wild parsnip,0,1,0
+3,June,Yarrow,9,10,1
+3,June,Yellow sweet clover,0,0,0
+4,June,Alfalfa,0,1,0
+4,June,Black eyed susan,0,1,0
+4,June,Brown eyed susan,0,1,0
+4,June,Bull thistle,1,2,0.301029996
+4,June,Butterfly milkweed,0,1,0
+4,June,Canada lettuce,0,0,0
+4,June,Canada thistle,0,1,0
+4,June,Carolina horse nettle,0,1,0
+4,June,Common evening primrose,0,0,0
+4,June,Common milkweed,0,1,0
+4,June,Common selfheal,0,1,0
+4,June,Common sneezeweed,0,1,0
+4,June,Crown vetch,47,48,1.681241237
+4,June,Cup plant,0,1,0
+4,June,Dandelion,0,1,0
+4,June,Deptford pink,0,1,0
+4,June,Eastern daisy fleabane,0,1,0
+4,June,Foxglove beardtounge,66,67,1.826074803
+4,June,Frost aster,0,1,0
+4,June,Golden alexander,47,48,1.681241237
+4,June,Goldenrod,0,1,0
+4,June,Greyheaded coneflower,0,1,0
+4,June,Hairy ruellia,0,1,0
+4,June,Hoary vervain,0,1,0
+4,June,Ironweed,0,1,0
+4,June,Jersulem artichoke,0,1,0
+4,June,Morning glory,0,1,0
+4,June,Mountain mint,0,0,0
+4,June,New england aster,0,1,0
+4,June,Oxeye sunflower,0,1,0
+4,June,Pale purple coneflower,0,1,0
+4,June,Partridge pea,0,1,0
+4,June,Purple prairie clover,0,1,0
+4,June,Queen anne's lace,0,0,0
+4,June,Rattlesnake master,0,1,0
+4,June,Red clover,0,1,0
+4,June,Sawtooth sunflower,0,1,0
+4,June,Showy ticktrefoil,0,1,0
+4,June,St. john's wort,0,0,0
+4,June,Swamp milkweed,0,0,0
+4,June,Swamp smartweed,0,1,0
+4,June,Tall boneset,0,1,0
+4,June,White clover,75,76,1.880813592
+4,June,White heath aster,0,1,0
+4,June,White sweet clover,0,1,0
+4,June,White vervain,0,1,0
+4,June,Wild bergamot,0,1,0
+4,June,Wild parsnip,15,16,1.204119983
+4,June,Yarrow,0,1,0
+4,June,Yellow sweet clover,0,0,0
+1,JulyAugust,Alfalfa,0,1,0
+1,JulyAugust,Black eyed susan,0,1,0
+1,JulyAugust,Brown eyed susan,0,1,0
+1,JulyAugust,Bull thistle,0,1,0
+1,JulyAugust,Butterfly milkweed,0,1,0
+1,JulyAugust,Canada lettuce,0,1,0
+1,JulyAugust,Canada thistle,0,1,0
+1,JulyAugust,Carolina horse nettle,0,1,0
+1,JulyAugust,Chicory,0,1,0
+1,JulyAugust,Common evening primrose,0,1,0
+1,JulyAugust,Common milkweed,1,2,0.301029996
+1,JulyAugust,Common selfheal,0,1,0
+1,JulyAugust,Common sneezeweed,0,1,0
+1,JulyAugust,Crown vetch,2.5,3.5,0.544068044
+1,JulyAugust,Cup plant,0,1,0
+1,JulyAugust,Dandelion,0,1,0
+1,JulyAugust,Deptford pink,0,1,0
+1,JulyAugust,Eastern daisy fleabane,0,1,0
+1,JulyAugust,Foxglove beardtounge,0,1,0
+1,JulyAugust,Frost aster,0,1,0
+1,JulyAugust,Golden alexander,0,1,0
+1,JulyAugust,Goldenrod,2.5,3.5,0.544068044
+1,JulyAugust,Greyheaded coneflower,231.5,232.5,2.366422957
+1,JulyAugust,Hairy ruellia,0,1,0
+1,JulyAugust,Hoary vervain,0,1,0
+1,JulyAugust,Ironweed,0,1,0
+1,JulyAugust,Jersulem artichoke,0,1,0
+1,JulyAugust,Morning glory,0,1,0
+1,JulyAugust,Mountain mint,0,1,0
+1,JulyAugust,New england aster,0,1,0
+1,JulyAugust,Oxeye sunflower,0,1,0
+1,JulyAugust,Pale purple coneflower,1,2,0.301029996
+1,JulyAugust,Partridge pea,1230.5,1231.5,3.090434416
+1,JulyAugust,Purple prairie clover,0,1,0
+1,JulyAugust,Queen anne's lace,0,1,0
+1,JulyAugust,Rattlesnake master,6,7,0.84509804
+1,JulyAugust,Red clover,0,1,0
+1,JulyAugust,Sawtooth sunflower,0,1,0
+1,JulyAugust,Showy ticktrefoil,0,1,0
+1,JulyAugust,St. john's wort,0,1,0
+1,JulyAugust,Swamp milkweed,0,1,0
+1,JulyAugust,Swamp smartweed,0,1,0
+1,JulyAugust,Tall boneset,0,1,0
+1,JulyAugust,White clover,2.5,3.5,0.544068044
+1,JulyAugust,White heath aster,0,1,0
+1,JulyAugust,White sweet clover,0,1,0
+1,JulyAugust,White vervain,11.5,12.5,1.096910013
+1,JulyAugust,Whorled milkweed,0,1,0
+1,JulyAugust,Wild bergamot,43,44,1.643452676
+1,JulyAugust,Wild parsnip,0,1,0
+1,JulyAugust,Yarrow,0,1,0
+1,JulyAugust,Yellow sweet clover,0,1,0
+2,JulyAugust,Alfalfa,29,30,1.477121255
+2,JulyAugust,Black eyed susan,0,1,0
+2,JulyAugust,Brown eyed susan,0,1,0
+2,JulyAugust,Bull thistle,0,1,0
+2,JulyAugust,Butterfly milkweed,1,2,0.301029996
+2,JulyAugust,Canada lettuce,0,1,0
+2,JulyAugust,Canada thistle,42.5,43.5,1.638489257
+2,JulyAugust,Carolina horse nettle,0,1,0
+2,JulyAugust,Chicory,0,1,0
+2,JulyAugust,Common evening primrose,0,1,0
+2,JulyAugust,Common milkweed,1,2,0.301029996
+2,JulyAugust,Common selfheal,0,1,0
+2,JulyAugust,Common sneezeweed,0,1,0
+2,JulyAugust,Crown vetch,0,1,0
+2,JulyAugust,Cup plant,0,1,0
+2,JulyAugust,Dandelion,0,1,0
+2,JulyAugust,Deptford pink,0,1,0
+2,JulyAugust,Eastern daisy fleabane,0,1,0
+2,JulyAugust,Foxglove beardtounge,0,1,0
+2,JulyAugust,Frost aster,0,1,0
+2,JulyAugust,Golden alexander,0,1,0
+2,JulyAugust,Goldenrod,0,1,0
+2,JulyAugust,Greyheaded coneflower,1317.5,1318.5,3.120080134
+2,JulyAugust,Hairy ruellia,0,1,0
+2,JulyAugust,Hoary vervain,1,2,0.301029996
+2,JulyAugust,Ironweed,0,1,0
+2,JulyAugust,Jersulem artichoke,0,1,0
+2,JulyAugust,Morning glory,8.5,9.5,0.977723605
+2,JulyAugust,Mountain mint,0,1,0
+2,JulyAugust,New england aster,0,1,0
+2,JulyAugust,Oxeye sunflower,1492.5,1493.5,3.174205227
+2,JulyAugust,Pale purple coneflower,0,1,0
+2,JulyAugust,Partridge pea,0,1,0
+2,JulyAugust,Purple prairie clover,0,1,0
+2,JulyAugust,Queen anne's lace,0,1,0
+2,JulyAugust,Rattlesnake master,0,1,0
+2,JulyAugust,Red clover,15,16,1.204119983
+2,JulyAugust,Sawtooth sunflower,0,1,0
+2,JulyAugust,Showy ticktrefoil,0,1,0
+2,JulyAugust,St. john's wort,0,1,0
+2,JulyAugust,Swamp milkweed,0,1,0
+2,JulyAugust,Swamp smartweed,0,1,0
+2,JulyAugust,Tall boneset,0,1,0
+2,JulyAugust,White clover,0,1,0
+2,JulyAugust,White heath aster,0,1,0
+2,JulyAugust,White sweet clover,0,1,0
+2,JulyAugust,White vervain,0,1,0
+2,JulyAugust,Whorled milkweed,0,1,0
+2,JulyAugust,Wild bergamot,2292.5,2293.5,3.360498744
+2,JulyAugust,Wild parsnip,0,1,0
+2,JulyAugust,Yarrow,0,1,0
+2,JulyAugust,Yellow sweet clover,0,1,0
+3,JulyAugust,Alfalfa,0,1,0
+3,JulyAugust,Black eyed susan,15,16,1.204119983
+3,JulyAugust,Brown eyed susan,0,1,0
+3,JulyAugust,Bull thistle,0,1,0
+3,JulyAugust,Butterfly milkweed,13,14,1.146128036
+3,JulyAugust,Canada lettuce,0,1,0
+3,JulyAugust,Canada thistle,0,1,0
+3,JulyAugust,Carolina horse nettle,2.5,3.5,0.544068044
+3,JulyAugust,Chicory,0,1,0
+3,JulyAugust,Common evening primrose,0,1,0
+3,JulyAugust,Common milkweed,0,1,0
+3,JulyAugust,Common selfheal,8,9,0.954242509
+3,JulyAugust,Common sneezeweed,0,1,0
+3,JulyAugust,Crown vetch,0,1,0
+3,JulyAugust,Cup plant,1,2,0.301029996
+3,JulyAugust,Dandelion,0,1,0
+3,JulyAugust,Deptford pink,3,4,0.602059991
+3,JulyAugust,Eastern daisy fleabane,87.5,88.5,1.946943271
+3,JulyAugust,Foxglove beardtounge,0,1,0
+3,JulyAugust,Frost aster,0,1,0
+3,JulyAugust,Golden alexander,0,1,0
+3,JulyAugust,Goldenrod,1,2,0.301029996
+3,JulyAugust,Greyheaded coneflower,89,90,1.954242509
+3,JulyAugust,Hairy ruellia,5,6,0.77815125
+3,JulyAugust,Hoary vervain,2.5,3.5,0.544068044
+3,JulyAugust,Ironweed,0,1,0
+3,JulyAugust,Jersulem artichoke,0,1,0
+3,JulyAugust,Morning glory,0,1,0
+3,JulyAugust,Mountain mint,0,1,0
+3,JulyAugust,New england aster,0,1,0
+3,JulyAugust,Oxeye sunflower,96,97,1.986771734
+3,JulyAugust,Pale purple coneflower,0,1,0
+3,JulyAugust,Partridge pea,7.5,8.5,0.929418926
+3,JulyAugust,Purple prairie clover,126,127,2.103803721
+3,JulyAugust,Queen anne's lace,0,1,0
+3,JulyAugust,Rattlesnake master,0,1,0
+3,JulyAugust,Red clover,88.5,89.5,1.951823035
+3,JulyAugust,Sawtooth sunflower,0,1,0
+3,JulyAugust,Showy ticktrefoil,30,31,1.491361694
+3,JulyAugust,St. john's wort,0,1,0
+3,JulyAugust,Swamp milkweed,0,1,0
+3,JulyAugust,Swamp smartweed,0,1,0
+3,JulyAugust,Tall boneset,0,1,0
+3,JulyAugust,White clover,0,1,0
+3,JulyAugust,White heath aster,0,1,0
+3,JulyAugust,White sweet clover,35,36,1.556302501
+3,JulyAugust,White vervain,0,1,0
+3,JulyAugust,Whorled milkweed,0,1,0
+3,JulyAugust,Wild bergamot,108.5,109.5,2.039414119
+3,JulyAugust,Wild parsnip,0,1,0
+3,JulyAugust,Yarrow,5,6,0.77815125
+3,JulyAugust,Yellow sweet clover,0,1,0
+4,JulyAugust,Alfalfa,0,1,0
+4,JulyAugust,Black eyed susan,56,57,1.755874856
+4,JulyAugust,Brown eyed susan,0,1,0
+4,JulyAugust,Bull thistle,1,2,0.301029996
+4,JulyAugust,Butterfly milkweed,1,2,0.301029996
+4,JulyAugust,Canada lettuce,0,1,0
+4,JulyAugust,Canada thistle,0,1,0
+4,JulyAugust,Carolina horse nettle,0,1,0
+4,JulyAugust,Chicory,0,1,0
+4,JulyAugust,Common evening primrose,0,1,0
+4,JulyAugust,Common milkweed,1,2,0.301029996
+4,JulyAugust,Common selfheal,0,1,0
+4,JulyAugust,Common sneezeweed,0,1,0
+4,JulyAugust,Crown vetch,0,1,0
+4,JulyAugust,Cup plant,0,1,0
+4,JulyAugust,Dandelion,0,1,0
+4,JulyAugust,Deptford pink,0,1,0
+4,JulyAugust,Eastern daisy fleabane,0,1,0
+4,JulyAugust,Foxglove beardtounge,0,1,0
+4,JulyAugust,Frost aster,0,1,0
+4,JulyAugust,Golden alexander,0,1,0
+4,JulyAugust,Goldenrod,6.5,7.5,0.875061263
+4,JulyAugust,Greyheaded coneflower,612,613,2.787460475
+4,JulyAugust,Hairy ruellia,0,1,0
+4,JulyAugust,Hoary vervain,2.5,3.5,0.544068044
+4,JulyAugust,Ironweed,3,4,0.602059991
+4,JulyAugust,Jersulem artichoke,0,1,0
+4,JulyAugust,Morning glory,1,2,0.301029996
+4,JulyAugust,Mountain mint,0,1,0
+4,JulyAugust,New england aster,0,1,0
+4,JulyAugust,Oxeye sunflower,71.5,72.5,1.860338007
+4,JulyAugust,Pale purple coneflower,1,2,0.301029996
+4,JulyAugust,Partridge pea,7.5,8.5,0.929418926
+4,JulyAugust,Purple prairie clover,0,1,0
+4,JulyAugust,Queen anne's lace,0,1,0
+4,JulyAugust,Rattlesnake master,0,1,0
+4,JulyAugust,Red clover,0,1,0
+4,JulyAugust,Sawtooth sunflower,0,1,0
+4,JulyAugust,Showy ticktrefoil,0,1,0
+4,JulyAugust,St. john's wort,0,1,0
+4,JulyAugust,Swamp milkweed,0,1,0
+4,JulyAugust,Swamp smartweed,0,1,0
+4,JulyAugust,Tall boneset,0,1,0
+4,JulyAugust,White clover,0,1,0
+4,JulyAugust,White heath aster,0,1,0
+4,JulyAugust,White sweet clover,0,1,0
+4,JulyAugust,White vervain,0,1,0
+4,JulyAugust,Whorled milkweed,0,1,0
+4,JulyAugust,Wild bergamot,24.5,25.5,1.40654018
+4,JulyAugust,Wild parsnip,0,1,0
+4,JulyAugust,Yarrow,0,1,0
+4,JulyAugust,Yellow sweet clover,0,1,0
+5,July,Alfalfa,0,1,0
+5,July,Black eyed susan,14.57142857,15.57142857,1.192328458
+5,July,Brown eyed susan,98.64285714,99.64285714,1.998446172
+5,July,Bull thistle,0,1,0
+5,July,Butterfly milkweed,0.142857143,1.142857143,0.057991947
+5,July,Canada lettuce,0.285714286,1.285714286,0.10914447
+5,July,Canada thistle,10.21428571,11.21428571,1.049771617
+5,July,Carolina horse nettle,0,1,0
+5,July,Chicory,0,1,0
+5,July,Common evening primrose,0.142857143,1.142857143,0.057991947
+5,July,Common milkweed,31.14285714,32.14285714,1.507084478
+5,July,Common selfheal,0,1,0
+5,July,Common sneezeweed,0,1,0
+5,July,Crown vetch,0,1,0
+5,July,Cup plant,0,1,0
+5,July,Dandelion,0,1,0
+5,July,Deptford pink,0,1,0
+5,July,Eastern daisy fleabane,16.35714286,17.35714286,1.239478238
+5,July,Foxglove beardtounge,0,1,0
+5,July,Frost aster,0,1,0
+5,July,Golden alexander,0,1,0
+5,July,Goldenrod,0,1,0
+5,July,Greyheaded coneflower,86.5,87.5,1.942008053
+5,July,Hairy ruellia,0,1,0
+5,July,Hoary vervain,0,1,0
+5,July,Ironweed,0,1,0
+5,July,Jersulem artichoke,0,1,0
+5,July,Morning glory,0,1,0
+5,July,Mountain mint,1.5,2.5,0.397940009
+5,July,New england aster,0,1,0
+5,July,Oxeye sunflower,8.714285714,9.714285714,0.987410873
+5,July,Pale purple coneflower,0.714285714,1.714285714,0.234083206
+5,July,Partridge pea,0,1,0
+5,July,Purple prairie clover,0,1,0
+5,July,Queen anne's lace,7.5,8.5,0.929418926
+5,July,Rattlesnake master,0,1,0
+5,July,Red clover,0.071428571,1.071428571,0.029963223
+5,July,Sawtooth sunflower,0,1,0
+5,July,Showy ticktrefoil,0,1,0
+5,July,St. john's wort,0,1,0
+5,July,Swamp milkweed,0.214285714,1.214285714,0.084320886
+5,July,Swamp smartweed,8.857142857,9.857142857,0.993751051
+5,July,Tall boneset,0,1,0
+5,July,White clover,0,1,0
+5,July,White heath aster,0,1,0
+5,July,White sweet clover,4.357142857,5.357142857,0.728933228
+5,July,White vervain,0,1,0
+5,July,Whorled milkweed,0.071428571,1.071428571,0.029963223
+5,July,Wild bergamot,287,288,2.459392488
+5,July,Wild parsnip,16.28571429,17.28571429,1.23768733
+5,July,Yarrow,0,1,0
+5,July,Yellow sweet clover,0,1,0
+6,July,Alfalfa,0,1,0
+6,July,Black eyed susan,0,1,0
+6,July,Brown eyed susan,0,1,0
+6,July,Bull thistle,0,1,0
+6,July,Butterfly milkweed,0,1,0
+6,July,Canada lettuce,0,1,0
+6,July,Canada thistle,0,1,0
+6,July,Carolina horse nettle,0,1,0
+6,July,Chicory,1,2,0.301029996
+6,July,Common evening primrose,0,1,0
+6,July,Common milkweed,14,15,1.176091259
+6,July,Common selfheal,0,1,0
+6,July,Common sneezeweed,0,1,0
+6,July,Crown vetch,0,1,0
+6,July,Cup plant,0,1,0
+6,July,Dandelion,0,1,0
+6,July,Deptford pink,0,1,0
+6,July,Eastern daisy fleabane,0,1,0
+6,July,Foxglove beardtounge,0,1,0
+6,July,Frost aster,0,1,0
+6,July,Golden alexander,0,1,0
+6,July,Goldenrod,0,1,0
+6,July,Greyheaded coneflower,124,125,2.096910013
+6,July,Hairy ruellia,0,1,0
+6,July,Hoary vervain,5,6,0.77815125
+6,July,Ironweed,0,1,0
+6,July,Jersulem artichoke,0,1,0
+6,July,Morning glory,0,1,0
+6,July,Mountain mint,0,1,0
+6,July,New england aster,0,1,0
+6,July,Oxeye sunflower,17,18,1.255272505
+6,July,Pale purple coneflower,0,1,0
+6,July,Partridge pea,0,1,0
+6,July,Purple prairie clover,0,1,0
+6,July,Queen anne's lace,0,1,0
+6,July,Rattlesnake master,0,1,0
+6,July,Red clover,0,1,0
+6,July,Sawtooth sunflower,0,1,0
+6,July,Showy ticktrefoil,0,1,0
+6,July,St. john's wort,5,6,0.77815125
+6,July,Swamp milkweed,0,1,0
+6,July,Swamp smartweed,0,1,0
+6,July,Tall boneset,0,1,0
+6,July,White clover,0,1,0
+6,July,White heath aster,0,1,0
+6,July,White sweet clover,85300,85301,4.930954123
+6,July,White vervain,0,1,0
+6,July,Whorled milkweed,0,1,0
+6,July,Wild bergamot,136,137,2.136720567
+6,July,Wild parsnip,0,1,0
+6,July,Yarrow,0,1,0
+6,July,Yellow sweet clover,2330,2331,3.367542274
+1,September,Alfalfa,0,1,0
+1,September,Black eyed susan,0,1,0
+1,September,Brown eyed susan,0,1,0
+1,September,Bull thistle,0,1,0
+1,September,Butterfly milkweed,0,1,0
+1,September,Canada lettuce,0,0,0
+1,September,Canada thistle,0,1,0
+1,September,Carolina horse nettle,0,1,0
+1,September,Common evening primrose,0,0,0
+1,September,Common milkweed,0,1,0
+1,September,Common selfheal,0,1,0
+1,September,Common sneezeweed,0,1,0
+1,September,Crown vetch,0,1,0
+1,September,Cup plant,0,1,0
+1,September,Dandelion,0,1,0
+1,September,Deptford pink,0,1,0
+1,September,Eastern daisy fleabane,0,1,0
+1,September,Foxglove beardtounge,0,1,0
+1,September,Frost aster,0,1,0
+1,September,Golden alexander,0,1,0
+1,September,Goldenrod,0,1,0
+1,September,Greyheaded coneflower,0,1,0
+1,September,Hairy ruellia,0,1,0
+1,September,Hoary vervain,0,1,0
+1,September,Ironweed,0,1,0
+1,September,Jersulem artichoke,0,1,0
+1,September,Morning glory,0,1,0
+1,September,Mountain mint,0,0,0
+1,September,New england aster,12,13,1.113943352
+1,September,Oxeye sunflower,0,1,0
+1,September,Pale purple coneflower,0,1,0
+1,September,Partridge pea,257,258,2.411619706
+1,September,Purple prairie clover,0,1,0
+1,September,Queen anne's lace,0,0,0
+1,September,Rattlesnake master,0,1,0
+1,September,Red clover,0,1,0
+1,September,Sawtooth sunflower,0,1,0
+1,September,Showy ticktrefoil,0,1,0
+1,September,St. john's wort,0,0,0
+1,September,Swamp milkweed,0,0,0
+1,September,Swamp smartweed,0,1,0
+1,September,Tall boneset,0,1,0
+1,September,White clover,0,1,0
+1,September,White heath aster,0,1,0
+1,September,White sweet clover,0,1,0
+1,September,White vervain,0,1,0
+1,September,Wild bergamot,0,1,0
+1,September,Wild parsnip,0,1,0
+1,September,Yarrow,0,1,0
+1,September,Yellow sweet clover,0,0,0
+2,September,Alfalfa,0,1,0
+2,September,Black eyed susan,0,1,0
+2,September,Brown eyed susan,0,1,0
+2,September,Bull thistle,50,51,1.707570176
+2,September,Butterfly milkweed,0,1,0
+2,September,Canada lettuce,0,0,0
+2,September,Canada thistle,7,8,0.903089987
+2,September,Carolina horse nettle,0,1,0
+2,September,Common evening primrose,0,0,0
+2,September,Common milkweed,0,1,0
+2,September,Common selfheal,0,1,0
+2,September,Common sneezeweed,0,1,0
+2,September,Crown vetch,0,1,0
+2,September,Cup plant,0,1,0
+2,September,Dandelion,0,1,0
+2,September,Deptford pink,0,1,0
+2,September,Eastern daisy fleabane,0,1,0
+2,September,Foxglove beardtounge,0,1,0
+2,September,Frost aster,25,26,1.414973348
+2,September,Golden alexander,0,1,0
+2,September,Goldenrod,740,741,2.869818208
+2,September,Greyheaded coneflower,22,23,1.361727836
+2,September,Hairy ruellia,0,1,0
+2,September,Hoary vervain,0,1,0
+2,September,Ironweed,0,1,0
+2,September,Jersulem artichoke,639,640,2.806179974
+2,September,Morning glory,0,1,0
+2,September,Mountain mint,0,0,0
+2,September,New england aster,440,441,2.644438589
+2,September,Oxeye sunflower,45,46,1.662757832
+2,September,Pale purple coneflower,0,1,0
+2,September,Partridge pea,0,1,0
+2,September,Purple prairie clover,0,1,0
+2,September,Queen anne's lace,0,0,0
+2,September,Rattlesnake master,0,1,0
+2,September,Red clover,72,73,1.86332286
+2,September,Sawtooth sunflower,45,46,1.662757832
+2,September,Showy ticktrefoil,0,1,0
+2,September,St. john's wort,0,0,0
+2,September,Swamp milkweed,0,0,0
+2,September,Swamp smartweed,0,1,0
+2,September,Tall boneset,1060,1061,3.025715384
+2,September,White clover,0,1,0
+2,September,White heath aster,250,251,2.399673721
+2,September,White sweet clover,0,1,0
+2,September,White vervain,0,1,0
+2,September,Wild bergamot,0,1,0
+2,September,Wild parsnip,0,1,0
+2,September,Yarrow,0,1,0
+2,September,Yellow sweet clover,0,0,0
+3,September,Alfalfa,0,1,0
+3,September,Black eyed susan,0,1,0
+3,September,Brown eyed susan,5,6,0.77815125
+3,September,Bull thistle,0,1,0
+3,September,Butterfly milkweed,0,1,0
+3,September,Canada lettuce,0,0,0
+3,September,Canada thistle,0,1,0
+3,September,Carolina horse nettle,0,1,0
+3,September,Common evening primrose,0,0,0
+3,September,Common milkweed,0,1,0
+3,September,Common selfheal,0,1,0
+3,September,Common sneezeweed,40,41,1.612783857
+3,September,Crown vetch,0,1,0
+3,September,Cup plant,30,31,1.491361694
+3,September,Dandelion,0,1,0
+3,September,Deptford pink,0,1,0
+3,September,Eastern daisy fleabane,0,1,0
+3,September,Foxglove beardtounge,0,1,0
+3,September,Frost aster,970,971,2.98721923
+3,September,Golden alexander,0,1,0
+3,September,Goldenrod,429,430,2.633468456
+3,September,Greyheaded coneflower,0,1,0
+3,September,Hairy ruellia,0,1,0
+3,September,Hoary vervain,0,1,0
+3,September,Ironweed,0,1,0
+3,September,Jersulem artichoke,0,1,0
+3,September,Morning glory,0,1,0
+3,September,Mountain mint,0,0,0
+3,September,New england aster,0,1,0
+3,September,Oxeye sunflower,155,156,2.193124598
+3,September,Pale purple coneflower,0,1,0
+3,September,Partridge pea,0,1,0
+3,September,Purple prairie clover,0,1,0
+3,September,Queen anne's lace,0,0,0
+3,September,Rattlesnake master,0,1,0
+3,September,Red clover,55,56,1.748188027
+3,September,Sawtooth sunflower,0,1,0
+3,September,Showy ticktrefoil,0,1,0
+3,September,St. john's wort,0,0,0
+3,September,Swamp milkweed,0,0,0
+3,September,Swamp smartweed,0,1,0
+3,September,Tall boneset,0,1,0
+3,September,White clover,0,1,0
+3,September,White heath aster,0,1,0
+3,September,White sweet clover,0,1,0
+3,September,White vervain,0,1,0
+3,September,Wild bergamot,0,1,0
+3,September,Wild parsnip,0,1,0
+3,September,Yarrow,0,1,0
+3,September,Yellow sweet clover,0,0,0
+4,September,Alfalfa,0,1,0
+4,September,Black eyed susan,0,1,0
+4,September,Brown eyed susan,0,1,0
+4,September,Bull thistle,5,6,0.77815125
+4,September,Butterfly milkweed,0,1,0
+4,September,Canada lettuce,0,0,0
+4,September,Canada thistle,0,1,0
+4,September,Carolina horse nettle,0,1,0
+4,September,Common evening primrose,0,0,0
+4,September,Common milkweed,0,1,0
+4,September,Common selfheal,0,1,0
+4,September,Common sneezeweed,0,1,0
+4,September,Crown vetch,0,1,0
+4,September,Cup plant,0,1,0
+4,September,Dandelion,0,1,0
+4,September,Deptford pink,0,1,0
+4,September,Eastern daisy fleabane,0,1,0
+4,September,Foxglove beardtounge,0,1,0
+4,September,Frost aster,29,30,1.477121255
+4,September,Golden alexander,0,1,0
+4,September,Goldenrod,1034,1035,3.01494035
+4,September,Greyheaded coneflower,0,1,0
+4,September,Hairy ruellia,0,1,0
+4,September,Hoary vervain,0,1,0
+4,September,Ironweed,0,1,0
+4,September,Jersulem artichoke,0,1,0
+4,September,Morning glory,0,1,0
+4,September,Mountain mint,0,0,0
+4,September,New england aster,20,21,1.322219295
+4,September,Oxeye sunflower,0,1,0
+4,September,Pale purple coneflower,0,1,0
+4,September,Partridge pea,15,16,1.204119983
+4,September,Purple prairie clover,0,1,0
+4,September,Queen anne's lace,0,0,0
+4,September,Rattlesnake master,0,1,0
+4,September,Red clover,0,1,0
+4,September,Sawtooth sunflower,0,1,0
+4,September,Showy ticktrefoil,0,1,0
+4,September,St. john's wort,0,0,0
+4,September,Swamp milkweed,0,0,0
+4,September,Swamp smartweed,0,1,0
+4,September,Tall boneset,480,481,2.682145076
+4,September,White clover,0,1,0
+4,September,White heath aster,90,91,1.959041392
+4,September,White sweet clover,0,1,0
+4,September,White vervain,0,1,0
+4,September,Wild bergamot,0,1,0
+4,September,Wild parsnip,0,1,0
+4,September,Yarrow,0,1,0
+4,September,Yellow sweet clover,0,0,0
